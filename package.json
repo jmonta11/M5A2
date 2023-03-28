@@ -1,0 +1,19 @@
+{
+  "name": "m5a2",
+  "version": "1.0.0",
+  "description": "M5A2 assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmonta11/M5A2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmonta11/M5A2/issues"
+  },
+  "homepage": "https://github.com/jmonta11/M5A2#readme"
+}
